@@ -1,7 +1,7 @@
 /** 
  * A Monte Carlo simulator for crystal growth.
  * 
- * Copyright Ali Fisher 2015
+ * Ali Fisher 2015
  * 
  */
 
